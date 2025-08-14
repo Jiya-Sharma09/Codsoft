@@ -1,2 +1,3 @@
 # Codsoft </br>
-project repo for internship at codsoft
+project repository for internship at codsoft : task 1 of level 1 </br>
+
